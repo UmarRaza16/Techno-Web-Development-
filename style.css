@@ -1,0 +1,34 @@
+html,body {
+    height: 100%;
+    width:100%; 
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+.button{
+    padding: 20px;
+    margin: 0.2px;
+    border: 1.5x solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: white;
+
+    
+}
+.row{
+    margin:1.5px 0;
+    width:50w;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+
+}
+.row input{
+    font-size: 20px;
+    margin:0;
+    padding: 10px 0px;
+    border : border radius 5px;
+    width: 291px; 
+    background-color: aqua;
+}
